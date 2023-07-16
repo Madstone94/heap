@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=minHeap()
+comment0.text=Create\ a\ default\ heap
+comment1.params=objects
+comment1.target=minHeap(java.lang.Comparable[])
+comment1.text=Create\ a\ heap\ from\ an\ array\ of\ objects
+comment2.params=newObject
+comment2.target=void\ add(java.lang.Comparable)
+comment2.text=Add\ a\ new\ object\ into\ the\ heap
+comment3.params=
+comment3.target=java.lang.Comparable\ remove()
+comment3.text=Remove\ the\ root\ from\ the\ heap
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=Get\ the\ number\ of\ nodes\ in\ the\ tree
+numComments=5
